@@ -1,0 +1,4 @@
+1.isme connection me db.js me database ka tune link diya hai isliye db se connect hua :-
+    const mongouri = "mongodb+srv://ujjawal:ujjawal123@crud-app.bm61lxf.mongodb.net/myDatabase?retryWrites=true&w=majority" //see here database name
+    abvoe me (myDatabase) tune diya isliye use connect hua
+2.and collection hua bcz, schema(models/users.js) me tune mongoose.models('User') //likha uska matlab hota hai User collection me karega insert

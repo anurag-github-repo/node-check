@@ -1,0 +1,227 @@
+
+
+1.login issue otp not sneidnf
+2.git issue
+3.skip screen oayemnbt
+4.resend otp \
+5.preview image
+//
+-------------------------------------------------------------
+10-7-23
+//write errors and notion and errors all 
+// siblings jquery
+
+1.doctor image 
+2.min thek ki 
+3.validation ki 
+4.uat ki
+5.staff me thoda progress hua 
+
+-------------------------------------------------------------
+12-07-23: 
+
+1.make calednar flow correct and working on it 
+2.do progress in staff flow ,make registration flow right 	
+
+//write about the jugad u done to add staff role and auth() token 
+
+14-07-23
+
+1.calendar update without reload 
+2.kahranak logic using recursive function 
+3.
+
+15-07-23
+
+1.STopped unusual scrolling of page on click 
+2.send message on patinet insert --to be done
+3.collect payment
+4.bugs calendar , reschedule time not 
+
+20-07-2023
+
+1.fixed api slot issue due to end time slot
+2.making vitals and dispplsy
+3.payment issue on arundhati side 
+4.migrating tbale on live
+
+--night--
+1.making vitals insert row to save vitals
+
+
+2-8-23
+
+1.category specializations
+2.table migrate and ( completed the moudle for add patient)
+3. 
+
+3-08-23
+
+1.wp api key 
+2.api app vitals(remainder), and saqlain( searhc doctors) ( doctor services)
+3.i added in patient-record, later added in header ( in all pages)
+4.vidoe call js improve( if someone left it should get to fullscreen)
+5.delete in calendar ( done by softdelete , and adding reason column )
+
+
+4-08-23
+
+1.calendar update bug solve  //d
+//2.helped in search bcoz of js //done
+2.patient payment in appt //done (app) 
+3.deltet data ( in live )//pending
+4.old values coming on open , and otp verify ke bad inputs are hai 
+
+5-08-23
+
+1.socket conenct and working
+
+
+07-08-23
+1.about column error too longin sigup page in doctor
+2.patient new coming
+3.api doctor invoice 
+4.loading bar spinner ,all appointment fetching problem , no patient selected 
+5.update patient
+
+
+08-08-23
+
+1.share invoice on pdf and sms , 
+2.share email and andu gandu on doctor patient vue module
+//tasks
+1.premium sql (sql so much error)
+2.invoice test an pull 	(not working wasted 15-20 min , fhir auth disable and then check and it was coming up and down)
+3.uat pe pull and not fetching error
+4.review some error 	
+5.when converting in pdf there weer issue so that convert nhi ho rha tha vo pdf me (git revert)( image nto fetching)
+6.	
+
+
+09-08-23
+
+1.add bookign id to invoce payment( bookign should be done before payment and the payment status should be updated later
+offc
+1.maked migration for booking_id cilumn in payment table 
+2.make pdf format correct 
+3.secure url 	
+
+
+11-08-23
+
+1.video call implementation using socket and calling 
+2.multipe file url upload in filetojson				
+3.get today doctor slots , on patient
+4.
+
+
+12-08-23
+
+1.done node js and code change in link
+2.patient signup and 
+3.check video call on uat if it working with new desing by ashsihs bhai
+4.make payment money sahi in invice
+5.pull on server merging 
+
+14-08-23
+
+1.html multiple and degree 	( input dissable select option)
+2.stoe multiple lanugage and input html	( input dissable select option)
+3.clinin imgae code for web and android api upload 
+4.doctor_degree option change
+
+
+16-08-23
+
+
+tks:-
+1.giving prescription to ashish bhai 
+2.letter head checik with saqlain bhai not working done for mutliple files
+3.first three letter only //in dict-r- patietn module 
+4.cgst /sgst = maharasthra , and in appointment book , chnage in signup again bcoz of this
+5.doctor_onboard save in antoher table and add column of 
+
+
+
+18-08-23
+
+offc:-
+
+1.edit profile 
+2.created migration for Clinic Notes Catalog ,with type,specailty,name column 
+3. storgin the abvoe and fetching //done
+4.reminder	//not
+4.ocean saraf pagination static 
+5.yash api check
+6.notification with video call
+
+19-08-23
+
+
+offc:- 
+
+1.set rminder
+2.ntofication
+3.procdue tmplete //doing	
+4.vipul
+5.singup me letterhead perview , patient module in doctor preiveiw=dynamice data 
+6.
+
+//type in api pdf,modify in three api 	
+
+//clininc catalog bugb fixes 
+//python check 
+
+21-08-23
+
+offc:- 
+
+1.make input like practo //doing before 50
+2.display search in ajax 
+3.make modal and input change 
+4.pdf video call , try to make dynamic 
+5.add template , after that chartign tmplt
+
+22-08-23
+
+
+1.makke input like practo ,view changed , insert code also changed (deployed)
+2.procedure template fixed code  (deployed)
+3.if logic getting disabled dropdowns in patient module  (deployed)
+4.pdf improvemeent	
+
+25-08-23
+1.logout to doctor //done (deployed)
+2.letterhead clininc
+3.cchnanel name unqiue for every vc
+4.file preview
+
+4-09-23
+
+1.update procedure tmplate
+2.vidoe call 
+3.mnal
+
+12-09-23 3:30-9:40
+
+1.meeting with sir,pull and uat fix
+2.merge live 30 mins 
+3.my bugs , told by sir 
+4.tejasvini mam , 2 api check , letterhead me image nhi arhi , and singup me state dalne par db me nnhi ja rha
+5.compose update 
+6.arundahti check slot not working clinic not showing
+7.search clinci notes , not working omn patient module
+8.singup ke time letter head
+9.password hide
+
+
+
+13-09-23 (4:15-10:45)
+
+1.category ,and other in signup  all check 
+2.uat merge issue
+3.slot in api video 
+4.add patient in header 
+5.bank degere change and other issue in degree 
+
+	
